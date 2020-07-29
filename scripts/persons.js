@@ -5,6 +5,12 @@ const Persons = {
     msg: 'Saudade do que a gente não viveu ainda!!',
     image: 'https://i.imgur.com/k2Uah9s.jpg'
   },
+  brendon: {
+  name: 'Brendon Guedes',
+  username: 'brendondev',
+  msg: 'Melhor que esse PR só um playstation 5',
+  image: 'https://memegenerator.net/img/instances/68221781/approved.jpg'
+},
   negodi: {
     name: 'Nego Di',
     username: 'negodioficial',
